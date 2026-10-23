@@ -1,0 +1,23 @@
+{
+  "repo": "invariant-omega-portable",
+  "commands": [
+    [
+      "python",
+      "-m",
+      "unittest",
+      "discover",
+      "-s",
+      "tests",
+      "-v"
+    ]
+  ],
+  "check_cwd": ".",
+  "scope": "29 original tests including installed-package isolation and fresh fixture.",
+  "runtime_status": "PASS",
+  "last_check": {
+    "passed": true,
+    "checked_utc": "2026-10-21T16:54:21.651849+00:00",
+    "scope": "29 original tests including installed-package isolation and fresh fixture."
+  },
+  "status": "LOCAL_RUNTIME_PASSED_OWNER_GATES_OPEN"
+}
