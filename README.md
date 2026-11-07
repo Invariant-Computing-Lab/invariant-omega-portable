@@ -1,6 +1,8 @@
 # Invariant OMEGA Portable 0.2.0
 
-A private, path-independent distribution of the preserved RARI OMEGA numerical kernels. This is a **replay interface**, not a new independent experiment, a recreation of the remote E2B/Kimi infrastructure, or biological validation.
+**Institutional context.** This repository is an Invariant Computing Lab research-software/reproducibility artefact. Source, saved fixtures and finite software checks must be interpreted within their documented assumptions and do not, by themselves, establish independent physical, biological, clinical or mathematical validation.
+
+An archived, path-independent distribution of the preserved RARI OMEGA numerical kernels. This is a **replay interface**, not a new independent experiment, a recreation of the remote E2B/Kimi infrastructure, or biological validation.
 
 ## Install and run
 
